@@ -14,3 +14,9 @@ Nos gustaría escuchar pláticas que abarquen alguno de estos temas:
 Si quieres animarte a dar una plática, por favor coloca un issue [aquí](https://github.com/frontendlovecdmx/platicas/issues)
 
 Todos los issues se revisarán en conjunto y se agendarán en los siguientes eventos ;)
+
+## Historial de pláticas
+
+Aquí pondremos todas las pláticas que ya se han dado.
+
+- [Enero 2019](./platicas/2019_01_07.md)
