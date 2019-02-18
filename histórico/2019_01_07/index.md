@@ -20,7 +20,7 @@ A medida que crecen las aplicaciones web ambiciosas tienden a ser caóticas y co
 
 Por Daniel González (https://twitter.com/metal_gogo)
 
-- [Presentación](./Materiales/ITCSS with Nuxt and SCSS.pdf)
+- [Presentación](./materiales/itcss_nuxt_scss.pdf)
 
 - [Repositorio](https://github.com/metal-gogo/itcss-nuxtjs-scss)
 
@@ -29,7 +29,7 @@ Desde la concepción de la primera idea, sin desechar el boceto inicial, pasando
 
 Por Emir Saldierna (https://twitter.com/EmirSaldierna)
 
-- [Presentación](./Materiales/De papel a la web.pdf)
+- [Presentación](./materiales/de_papel_a_la_web.pdf)
 
 
 [Volver al inicio](/README.md)
