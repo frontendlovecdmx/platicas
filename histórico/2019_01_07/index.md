@@ -1,7 +1,7 @@
 # Inauguración de Frontend Love CDMX
 
-**Fecha**: Enero 07, 2019
-**Lugar**: En las oficinas de Beek, en Av. San Antonio 188 - 303, Ciudad de los Deportes.
+- **Fecha**: Enero 07, 2019
+- **Lugar**: En las oficinas de Beek, en Av. San Antonio 188 - 303, Ciudad de los Deportes.
 
 Por fin dimos inicio a nuestra comunidad. Nos reuniremos el primer jueves de cada mes.
 
