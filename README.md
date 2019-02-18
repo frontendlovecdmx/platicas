@@ -19,4 +19,4 @@ Todos los issues se revisarán en conjunto y se agendarán en los siguientes eve
 
 Aquí pondremos todas las pláticas que ya se han dado.
 
-- [Enero 2019](./histórico/2019_01_07)
+- [Enero 2019](./histórico/2019_01_07/index.md)

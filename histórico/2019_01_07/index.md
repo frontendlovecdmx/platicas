@@ -27,3 +27,6 @@ Desde la concepción de la primera idea, sin desechar el boceto inicial, pasando
 
 Por Emir Saldierna (https://twitter.com/EmirSaldierna)
 [Presentación](histórico/2019_01_07/Materiales/De papel a la web.pdf)
+
+
+[Volver al inicio](/README.md)
