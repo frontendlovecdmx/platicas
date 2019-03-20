@@ -16,6 +16,7 @@ Por Susana Casasola (https://twitter.com/SusCasasola)
 Cómo desarrollar componentes de React manteniendo la accesibilidad siempre en mente.
 
 Por Iván Hernández (https://github.com/ivan2hdez)
+- [Presentación](./materiales/a11y_&_React.pdf)
 
 ## Introducción al desarrollo de producto orientado a datos
 Breve explicación de sobre que son los experimentos A/B, cómo funcionan y las ventajas que traen al desarrollo de producto. Adicionalmente una pequeña muestra de como hacer experimentos A/B con React.
