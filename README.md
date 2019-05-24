@@ -2,9 +2,7 @@
 
 Nos reunimos el primer jueves de cada mes :two_hearts:
 
-Queremos abordar todos los temas que se involucran para generar un Frontend maravilloso. Desde el diseño de servicio, la usabilidad, experiencia, la interfaz, hasta el diseño de los servicios del backend colaboran para el Frontend más espectacular posible.
-
-Por lo tanto nos gustaría escuchar pláticas que abarquen alguno de estos temas:
+Queremos abordar todos los temas que se involucran para generar un Frontend maravilloso. Desde el diseño de servicio, la usabilidad, experiencia, la interfaz, hasta el diseño de los servicios del backend colaboran para el Frontend más espectacular posible. Por lo tanto nos gustaría escuchar pláticas que abarquen alguno de estos temas:
 - Diseño web
 - CSS / HTML
 - Javascript
