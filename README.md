@@ -21,3 +21,4 @@ Aquí pondremos todas las pláticas que ya se han dado.
 
 - [Febrero 2019](./histórico/2019_02_07/index.md)
 - [Marzo 2019](./histórico/2019_03_07/index.md)
+- [Abril 2019](./histórico/2019_04_04/index.md)
