@@ -20,6 +20,8 @@ Por Emir Saldierna (https://twitter.com/EmirSaldierna) y Daniel González (https
 ## Construye tu blog con Next.js y publícalo con Netlify.
 Netlify es una herramienta super rápida e intuitiva para desplegar tus proyectos en minutos. En esta plática te muestro cómo configurar los despliegues de un blog que usa Next.js.
 
+Por Susana Casasola (https://twitter.com/SusCasasola)
+
 - [Presentación](./materiales/Next_y_Netlify.pdf)
 - https://github.com/frontendlovecdmx/netlify_demo_nextjs
 - https://github.com/frontendlovecdmx/netlify_demo_html
